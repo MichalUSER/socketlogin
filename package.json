@@ -1,0 +1,19 @@
+{
+  "name": "socketlogin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.7",
+    "socket.io": "^2.2.0"
+  }
+}
